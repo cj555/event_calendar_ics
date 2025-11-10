@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:top100_stock_events
+X-WR-TIMEZONE:Asia/Singapore
+BEGIN:VEVENT
+DTSTART:20251103T080000Z
+DTEND:20251103T090000Z
+DTSTAMP:20251104T012100Z
+UID:7s1ghjdrf11g6rdu3vo185pd0j@google.com
+CREATED:20251103T075927Z
+LAST-MODIFIED:20251103T075927Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:test2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T080000Z
+DTEND:20251103T090000Z
+DTSTAMP:20251104T012100Z
+UID:74u44f6usrl3r9j172kng4l438@google.com
+CREATED:20251103T075801Z
+DESCRIPTION:  Absolutely—here’s a tight\, practitioner-oriented list of 100
+  recurring “ETF-moving” events/meetings/conferences. These consistently swa
+ y broad market ETFs (SPY/QQQ/TLT/GLD)\, sector/thematic funds (XLE/XLK/XBI/
+ SOXX\, etc.)\, and country ETFs. For context: the FOMC meets 8×/yr\, OPEC/O
+ PEC+ meetings steer crude supply policy\, Russell index reconstitution resh
+ uffles flows each June (moving to semi-annual in 2026)\, MSCI index reviews
+  are on a quarterly/ semi-annual cadence\, and Jackson Hole remains a key p
+ olicy signal each August.
+LAST-MODIFIED:20251103T080655Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FOMC
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
