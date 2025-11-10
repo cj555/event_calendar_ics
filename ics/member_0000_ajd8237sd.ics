@@ -38,6 +38,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOMC2222222
+DTSTART:20251103T080000Z
+DTEND:20251103T090000Z
+DTSTAMP:20251104T012100Z
+UID:74u44f6usrl3r9j172kng4l438@google.com
+SEQUENCE:0
+CREATED:20251103T075801Z
+DESCRIPTION:  Absolutely—here’s a tight\, practitioner-oriented list 
+ of 100 recurring “ETF-moving” events/meetings/conferences. These consi
+ stently sway broad market ETFs (SPY/QQQ/TLT/GLD)\, sector/thematic funds (
+ XLE/XLK/XBI/SOXX\, etc.)\, and country ETFs. For context: the FOMC meets 8
+ ×/yr\, OPEC/OPEC+ meetings steer crude supply policy\, Russell index reco
+ nstitution reshuffles flows each June (moving to semi-annual in 2026)\, MS
+ CI index reviews are on a quarterly/ semi-annual cadence\, and Jackson Hol
+ e remains a key policy signal each August.
+LAST-MODIFIED:20251103T080655Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Python Meeting
 DTSTART;TZID=Asia/Singapore:20251105T100000
 DTEND;TZID=Asia/Singapore:20251105T110000
